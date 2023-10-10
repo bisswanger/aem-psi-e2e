@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# AEM PSI end-2-end tests
+Sample AEM Edge Delivery page for automated PSI service end-2-end tests
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--aem-psi-e2e--bisswanger.hlx.page/
+- Live: https://main--aem-psi-e2e--bisswanger.hlx.live/
 
 ## Installation
 
